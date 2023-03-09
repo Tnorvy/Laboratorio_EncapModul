@@ -13,7 +13,7 @@
 - Cambie la visibilidad a los atributos de este programa, cree los métodos de encapsulamiento y controle que los valores de número 1 y 2 sean mayores que 0 dentro de los métodos set. (Encapsulamiento).
 
 ### Diagrama de clases
-![Diagrama de clases. Relación entre las clases Pacientes y SvPacientes. La primera encargada del manejo de datos y la segunda encargada de recibir, guardar los datos e imprimirlos en pantalla por medio de JSP](https://github.com/KroxFredy/Lab2_Encapsulamiento/blob/main/DiagramaClases.jpeg)
+![Diagrama de clases. Relación entre las clases Pacientes y SvPacientes. La primera encargada del manejo de datos y la segunda encargada de recibir, guardar los datos e imprimirlos en pantalla por medio de JSP](https://github.com/Tnorvy/Laboratorio_EncapModul/blob/main/Lab2_Encapsulamiento/DiagramaClases.jpeg)
 
 ### Diagrama casos de uso
-![Diagrama de casos de uso. Interacción del usuario desde el menú a las opciones de registrar y mostrar datos, también está dispnible la opción de devolver a la pagina principal.](https://github.com/KroxFredy/Lab2_Encapsulamiento/blob/main/DiagramaUsos.jpeg)
+![Diagrama de casos de uso. Interacción del usuario desde el menú a las opciones de registrar y mostrar datos, también está dispnible la opción de devolver a la pagina principal.](https://github.com/Tnorvy/Laboratorio_EncapModul/blob/main/Lab2_Encapsulamiento/DiagramaUsos.jpeg)
