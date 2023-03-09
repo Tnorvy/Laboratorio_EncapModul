@@ -1,2 +1,4 @@
-# Laboratorio_EncapModul
- Laboratorio sobre modularidad y encapsulamiento. Realizado por Frezy Zarate y Gabriel Martienz
+# Laboratorio - Encapsulamiento y modularidad.
+#### Integrantes:
+- Fredy Alejandro Zarate Abril
+- Gabriel Esteban Martinez Roldan
